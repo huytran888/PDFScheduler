@@ -2,7 +2,7 @@
 
 The PDF Schedule Project is a project created for Foxit Student Challenges. This is a starter project which has a lot of the code implimented and is waiting for a student to complete the Challenge. First Student to complete the challenge will recieve a prize, please see Prize info section below.
 
-## Challenges
+## Challenges (ToDo)
 - [ ] Read a PDF\Syllabus.pdf for Dates using the plug-in SDK and create a Google Calendly or a Outlook Calendly ics file
 - [ ] Google Calendly or a Outlook ics created should work with Google and Outlook accordingly
 - [ ] Find a Sample concert ticket as a PDF.  Parse the data and also create a Google Calendly or a Outlook ics file
@@ -22,6 +22,9 @@ The PDF Schedule Project is a project created for Foxit Student Challenges. This
 
 ## How to accept the challenge?
 E-mail Huy_Tran@foxitsoftware.com and indicate that you want to accept the challenge and how long you want the challenge to be saved for you to complete.
+
+## How to submit your completed challenge?
+Create a new Github Page and Request a submission from Huy_Tran@foxitsoftware.com
 
 ## Is this project currently saved by a active student challenger?
 No
@@ -63,9 +66,12 @@ Yes, here are the links to the others:
 
 PDF Translator Challenge: https://github.com/huytran888/PDFTranslator
 
+PDF QR Reader Challenge: https://github.com/huytran888/PDFQRCodeReader
+
 ## Is the prize still available for this challenge?
 Yes
 
 ## Project Leads:
 Huy Tran: https://www.linkedin.com/in/huy-tran-9ab02329
+
 Daniel Godfrey: https://www.linkedin.com/in/daniel-godfrey-876b83165/
