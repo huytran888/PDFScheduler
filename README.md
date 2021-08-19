@@ -8,11 +8,11 @@ The PDF Schedule Project is a project created for Foxit Student Challenges. This
 - [ ] Find a Sample concert ticket as a PDF.  Parse the data and also create a Google Calendly or a Outlook ics file
 
 ## How to build and run the project?
-1. Download and install Foxit PhantomPDF https://cdn06.foxitsoftware.com/pub/foxit/phantomPDF/desktop/win/10.x/10.1/en_us/FoxitPhantomPDF1011_enu_Setup_Website.msi
+1. Download and install Foxit PDF Editor https://cdn06.foxitsoftware.com/product/phantomPDF/desktop/win/11.0.0/FoxitEditor110_enu_Setup_Website.msi
 2. Install Microsoft Visual Studio 2017
 3. Open "Scheduler\Samples\RibbonElements\RibbonElements.sln" with Visual Studio 2017
 4. Install any project dependancy Visual Studio 2017 indicates that you are missing.
-5. Open Windows Explorer and go to "C:\Program Files (x86)\Foxit Software\Foxit PhantomPDF\"
+5. Open Windows Explorer and go to "C:\Program Files (x86)\Foxit Software\Foxit PDF Editor\"
 6. Right click on the folder "plugins" and choose properties
 7. Click on the "Security" Tab
 8. Click on "Edit"
@@ -30,7 +30,7 @@ Create a new Github Page and Request a submission from Huy_Tran@foxitsoftware.co
 No
 
 ## What do you get when you run the project now?
-1. Open Foxit PhantomPDF
+1. Open Foxit PDF Editor
 2. Open the PDF at Scheduler\PDF\Syllabus.pdf
 3. Locate and click on the "Calendar Scan" Tab 
 4. Click on "Start Scan"
@@ -46,7 +46,7 @@ Participants must meet the following requirement for submission:
 * Must be enrolled in school or were enrolled in school within the last year
 * Must be able to legally accept the gift/prize
 
-## Where can I find Foxit PhantomPDF Plug-in APIs?
+## Where can I find Foxit PDF Editor Plug-in APIs?
 You can find the API reference at "Scheduler\Document\Foxit Reader PDF API Reference.pdf"
 
 ## Need Support?
